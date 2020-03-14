@@ -55,8 +55,8 @@
 		
 		
 		<div id="actions">
-			<button> Generar nueva paleta</button>
-			<button> Limpiar paleta</button>
+			<button onclick="randomPalette();"> Generar nueva paleta</button>
+		    <button onclick="cleanPalette();"> Limpiar paleta</button>
 		</div>
 	</body>
 
