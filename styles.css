@@ -3,7 +3,7 @@
 	border-style: solid;
 	border-width: 1px;
 	display: inline;
-	width: 80px;
+	width: 50px;
 	height: 100px;
 	margin: 5px;
 	padding:10px;
@@ -11,5 +11,5 @@
 
 .rules{
     width: 500px;
-	height: 200px;
+	height: 300px;
 }
